@@ -2,7 +2,7 @@
 
 Desafio da criação de uma aplicação mobile utilizando os conceitos do React Native aprendidos. Este projeto também conta com testes automatizados para cobrir os requisitos funcionais implementados.
 
-## Frontend construído utilizando:
+## Aplicação mobile construído utilizando:
 
 - [ReactNative](https://reactnative.dev/)
 
@@ -16,7 +16,7 @@ Desafio da criação de uma aplicação mobile utilizando os conceitos do React 
 
 ## Funcionalidades
 
-A aplicação frontend deve utilizar o backend construído previamente [github repositório](https://github.com/brvictorsa/desafio-conceitos-nodejs) conforme os requisitos abaixo:
+A aplicação mobile deve utilizar o backend construído previamente [github repositório](https://github.com/brvictorsa/desafio-conceitos-nodejs) e os requisitos são descritos abaixo:
 
 * **Listar os repositórios da sua API**: Deve ser capaz de criar uma lista de todos os repositórios que estão cadastrados na sua API com os campos title, techs e número de curtidas seguindo o padrão *${repository.likes} curtidas*, apenas alterando o número para ser dinâmico.
 
@@ -28,7 +28,9 @@ A aplicação frontend deve utilizar o backend construído previamente [github r
 
 ## Instalar e executar o projeto: 
 
-O projeto mobile deve ser executado no emulador do Android Studio. Caso, queira executar em outro emulador ou no dispositivo físico deve ser reconfigurada a *baseURL* no arquivo *src/services/api.js*
+O projeto mobile foi executado no emulador do Android Studio. Caso, queira executar em outro emulador ou no dispositivo físico, deve ser reconfigurada a *baseURL* no arquivo *src/services/api.js*. 
+
+*Obs: se executado em outro ambiente os passos abaixo podem divergir conforme a plataforma utilizada*
 
 1. Clonar o projeto para seu local de trabalho (via HTTPS).
 
