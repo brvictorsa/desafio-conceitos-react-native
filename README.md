@@ -45,7 +45,7 @@ yarn global add react-native-cli
 yarn //or npm install
 ```
 
-3. Executar o emulador do Android Studio. [Mais detalhes](https://react-native.rocketseat.dev/android/linux). 
+3. Executar o emulador do Android Studio. [Mais detalhes](https://react-native.rocketseat.dev/android/linux) sobre como configurar o ambiente e o emulador. 
 
 4. Executar o Metro bundler para gerar os arquivos.
 ```js
